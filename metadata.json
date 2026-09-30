@@ -1,0 +1,6 @@
+{
+  "name": "HuaynoStudio",
+  "description": "Estudio multipista profesional y generador de spots radiales para huayno andino",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
